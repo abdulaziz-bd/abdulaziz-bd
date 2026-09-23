@@ -9,7 +9,7 @@
 
 ### About Me
 ```yaml
-name: Md Abdul Aziz
+name: Abdul Aziz
 located_in: Potsdam, Germany
 current_job: Research Assistant (Fullstack Software Engineer)
 education: M.Sc. in Data Science, University of Potsdam (in progress) | B.Sc. in Computer Science, Daffodil International University (GPA 3.8/4.0)
